@@ -1,5 +1,7 @@
 # Shishii Translator
 
+---
+
 ## Usage
 
 1. Download the archive of the latest version from the **Releases** page.
@@ -16,10 +18,3 @@ The project contains the application code. The models and the portable runtime a
 ## License
 
 Shishii Translator's code is under the MIT license. The Shishii logo remains reserved for Shiiou. Third-party components and models keep their own licenses: see [LICENSE.md](LICENSE.md) and [licenses/CREDITS.md](licenses/CREDITS.md).
-
----
-
-**Notes de traduction :**
-- `LISEZ-MOI.md` → `README.md` (nom anglais standard ; si le fichier reste physiquement nommé `LISEZ-MOI.md` dans le dépôt, conservez plutôt `LISEZ-MOI.md`).
-- `Maj+Entrée` → `Shift+Enter` (touche « Maj » = Shift sur un clavier anglais).
-- Les liens (`LICENSE.md`, `licenses/CREDITS.md`) sont conservés tels quels puisqu'il s'agit de chemins de fichiers.
