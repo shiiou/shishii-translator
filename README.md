@@ -13,7 +13,7 @@ The bundled local mode contains the French ↔ English models. DeepL and ElevenL
 
 ## Development
 
-The project contains the application code. The models and the portable runtime are distributed with the release archives to avoid making the repository too heavy. See `README.md` for details on how it works.
+The project contains the application code. The models and the portable runtime are distributed with the release archives to avoid making the repository too heavy.
 
 ## License
 
